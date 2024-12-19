@@ -170,6 +170,6 @@ awards:
 
 ## About Me
 
-<span style="color:black"> Hello and welcome to my website! I'm Dr. Tawaun A. Lucas, a computational biologist with a Ph.D. in Neuroscience from Stanford University. Currently, I am a postdoctoral fellow at Genentech, where I specialize in spatial transcriptomics, neuroimmunology, neurodegeneration, and machine learning. My work is driven by a passion for multi-omics analysis and biomarker development, leveraging advanced computational methodologies to innovate in precision Medicine.
+Hello, I'm Dr. Tawaun A. Lucas, a computational biologist with a Ph.D. in Neuroscience from Stanford University. Currently, I am a postdoctoral fellow at Genentech, where I specialize in spatial transcriptomics, neuroimmunology, neurodegeneration, and machine learning. My work is driven by a passion for multi-omics analysis and biomarker development, leveraging advanced computational methodologies to innovate in precision medicine.
 
-<span style="color:black"> With a strong foundation in both research and education, I have a proven track record of cross-functional collaboration and impactful contributions to the scientific community. Explore my site to learn more about my research, publications, and professional journey.</span>
+With a strong foundation in both research and education, I have a proven track record of cross-functional collaboration and impactful contributions to the scientific community. Explore my site to learn more about my research, publications, and professional journey.
