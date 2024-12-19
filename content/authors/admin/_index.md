@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tawaun Lucas
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tawaun A
+last_name: Lucas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,75 +20,60 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Genentech Inc.
+    url: https://gene.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lucas.tawaun@gene.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/LucasTawaun
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tawaunl
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tawaun-lucas
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=IPSYij4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2273-270X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Neuroscience/Neuroimmunology
+  - Neurodegeneration
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Neuroscience
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-07-15
+    date_end: 2021-02-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on the diversity of glia in our nervous system. Supervised by [Marion Buckwalter](https://med.stanford.edu/profiles/marion-buckwalter). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor's Psychology (Honor's)
+    institution: California State University, Northridge
+    date_start: 2009-08-15
+    date_end: 2014-05-14
     summary: |
+      Student-Athlete (Track and Field)
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Fellow
+    company_name: Genentech Inc,
+    company_url: 'www.gene.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-04-21
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -116,14 +101,18 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: Unix/Linux
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: code-bracket
+      - name: Unix/Linux
+        description: ''
+        percent: 90
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,10 +133,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +170,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<span style="color:black"> Hello and welcome to my website! I'm Dr. Tawaun A. Lucas, a computational biologist with a Ph.D. in Neuroscience from Stanford University. Currently, I am a postdoctoral fellow at Genentech, where I specialize in spatial transcriptomics, neuroimmunology, neurodegeneration, and machine learning. My work is driven by a passion for multi-omics analysis and biomarker development, leveraging advanced computational methodologies to innovate in precision Medicine.
+
+<span style="color:black"> With a strong foundation in both research and education, I have a proven track record of cross-functional collaboration and impactful contributions to the scientific community. Explore my site to learn more about my research, publications, and professional journey.</span>
