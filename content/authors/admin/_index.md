@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tawaun Lucas
+title: Tawaun A. Lucas
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Tawaun A
+first_name: Tawaun A.
 last_name: Lucas
 
 # Status emoji

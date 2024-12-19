@@ -1,11 +1,11 @@
 ---
 title: Immunohistochemical and transcriptional characterization of spleen glia
 authors:
-- T Lucas
-- L Zhu
-- M Rao
-- M Buckwalter
-date: 2021-01-01
+- Tawaun A. Lucas
+- Li Zhu
+- Meena Rao
+- Marion S. Buckwalter
+date: 2019-07-01
 publishDate: '2024-12-19T13:30:38.059402Z'
 publication_types:
 - paper-conference
