@@ -35,4 +35,13 @@ abstract: Glia are known to play important roles in the brain, the gut, and arou
   with splenic nerves and come in close contact with immune cells. Spleen glia express
   genes required for communication with nerves and immune cells. Spleen glia are a
   transcriptionally unique glial type.
+# Summary. An optional shortened abstract.
+summary: Identfication and transcriptional characterization of glia in the spleen.
+
+tags:
+- RNAseq
+- Immunohistochemistry
+- In Situ
+
+featured: true
 ---

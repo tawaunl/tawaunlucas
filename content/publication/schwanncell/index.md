@@ -39,4 +39,10 @@ abstract: The important contribution of glia to mechanisms of injury and repair 
   on the response of CNS glia to injury, we anticipate that this dataset will provide
   a valuable platform for understanding key differences in the PNS and CNS glial responses
   to injury and for designing approaches to ameliorate CNS regeneration.
+summary: Investigation of Schwann Cell transcritpional changes over time after nerve injury .
+
+tags:
+- RNAseq
+
+featured: true
 ---
