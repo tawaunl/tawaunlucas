@@ -18,10 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/TawaunLucasCV_FULL.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
   - block: markdown
     content:
       title: '📚 My Research'
