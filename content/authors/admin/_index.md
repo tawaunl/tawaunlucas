@@ -60,7 +60,7 @@ education:
       Thesis on the diversity of glia in our nervous system. Supervised by [Marion Buckwalter](https://med.stanford.edu/profiles/marion-buckwalter). 
     button:
       text: 'Read Thesis'
-      url:  /tawaunlucas/uploads/FinalDissertation.pdf
+      url: uploads/FinalDissertation.pdf
   - area: Bachelor's Psychology (Honor's)
     institution: California State University, Northridge
     date_start: 2009-08-15
