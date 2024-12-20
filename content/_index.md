@@ -18,4 +18,15 @@ sections:
       button:
         text: Download CV
         url: uploads/TawaunLucasCV_FULL.pdf
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
 ---
