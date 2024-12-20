@@ -57,7 +57,7 @@ education:
     institution: Stanford University
     date_start: 2014-07-15
     date_end: 2021-02-15
-    summary: |
+    summary: |2-
       Thesis on the diversity of glia in our nervous system. <br>
       Supervised by [Marion Buckwalter](https://med.stanford.edu/profiles/marion-buckwalter).
     button:
@@ -67,7 +67,7 @@ education:
     institution: California State University, Northridge
     date_start: 2009-08-15
     date_end: 2014-05-14
-    summary: |
+    summary: |2-
       Student-Athlete (Track and Field)
       GPA: 3.8/4.0
 work:
