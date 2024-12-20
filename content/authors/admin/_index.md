@@ -103,27 +103,27 @@ work:
 skills:
   - name: Technical Skills
     items:
-    - name: R
+      - name: R
         description: ''
         percent: 100
         icon: code-bracket
-    - name: Python 
+      - name: Python 
         description: ''
         percent: 80
         icon: code-bracket
-    - name: Statistics
+      - name: Statistics
         description: ''
         percent: 90
         icon: code-bracket
-    - name: Matlab
+      - name: Matlab
         description: ''
         percent: 60
         icon: code-bracket
-    - name: Cell and Molecular Lab Techniques
+      - name: Cell and Molecular Lab Techniques
         description: ''
         percent: 95
         icon: code-bracket
-     - name: Microscopy
+      - name: Microscopy
         description: ''
         percent: 85
         icon: code-bracket
