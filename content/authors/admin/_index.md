@@ -68,7 +68,7 @@ education:
     date_start: 2009-08-15
     date_end: 2014-05-14
     summary: |2-
-      Student-Athlete (Track and Field)
+      Student-Athlete (Track and Field) <br>
       GPA: 3.8/4.0
 work:
   - position: Postdoctoral Fellow
@@ -103,22 +103,31 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: R
+    - name: R/Unix/Linux
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Unix/Linux
+      - name: Python & Machine Learning
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Statistics
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Unix/Linux
+      - name: Matlab
         description: ''
-        percent: 90
+        percent: 60
         icon: code-bracket
+      - name: Cell and Molecular Lab Techniques
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Microscopy
+        description: ''
+        percent: 85
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -174,7 +183,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# About Me
 
 Hello, I'm Dr. Tawaun A. Lucas, a computational biologist with a Ph.D. in Neuroscience from Stanford University. Currently, I am a postdoctoral fellow at Genentech, where I specialize in spatial transcriptomics, neuroimmunology, neurodegeneration, and machine learning. My work is driven by a passion for multi-omics analysis and biomarker development, leveraging advanced computational methodologies to innovate in precision medicine.
 
