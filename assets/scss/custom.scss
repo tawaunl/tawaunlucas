@@ -1,0 +1,15 @@
+.avatar-wrapper {
+    display: flex;
+  }
+  
+  #profile > div.avatar-wrapper > img {
+    position: relative;
+    display: flex;
+    max-height: 300px;
+    max-width: 300px;
+    right: 80px;
+  }
+  
+  .avatar-wrapper .avatar-emoji {
+    right: -20px;
+  }
