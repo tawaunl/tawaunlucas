@@ -7,14 +7,9 @@ sections:
     content:
       title: Media Coveravge
       subtitle: 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
----
-# Rule 1
-Description for rule 1.
+      text: 
+      # Rule 1
+    Description for rule 1.
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
@@ -33,3 +28,8 @@ Description for rule 1.
 </code></pre>
     </div>
 </div>
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+---
