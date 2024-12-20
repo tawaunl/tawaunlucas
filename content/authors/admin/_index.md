@@ -1,4 +1,5 @@
 ---
+font_size: XL
 # Display name
 title: Tawaun A. Lucas
 
@@ -76,22 +77,26 @@ work:
     date_start: 2021-04-21
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      As a postdoctoral researcher, my focus is on computational biology, particularly examining the diverse functions of reactive astrocytes in neurodegeneration. I explore complex biological systems using computational and statistical modeling techniques. My research aims to analyze large omics datasets to gain insights into genetic mechanisms and pathways, with an emphasis on neuroscience and immunology.ng elit
+  - position: Graduate Researcher
+    company_name: Stanford University- School of Medicine
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-08-01
+    date_end: 2021-02-15
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      As a graduate student, I worked on several projects focused on molecular biology and transcriptomics. One project examined glial cells in the spleen and their role in neuroimmune communication during CNS injury. I designed experiments, analyzed data, and presented the findings at scientific conferences.
 
+  - position: Summer Research Intern
+    company_name: Stanford University- School of Medicine
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-06-01
+    date_end: 2013-08-15
+    summary: |
+     During my internship, I gained practical experience in data science and neurology. I explored GABA's role in decision-making, created MATLAB tasks, and conducted fMRI scans. This experience laid a strong foundation for my career in neurobiology and computational science.
+      
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
