@@ -103,11 +103,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-    - name: 'R/Unix/Linux'
+    - name: R
         description: ''
         percent: 100
         icon: code-bracket
-      - name: 'Python & Machine Learning'
+      - name: Python 
         description: ''
         percent: 80
         icon: code-bracket
@@ -127,7 +127,6 @@ skills:
         description: ''
         percent: 85
         icon: code-bracket
-
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
