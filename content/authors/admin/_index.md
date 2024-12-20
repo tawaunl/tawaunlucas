@@ -58,7 +58,8 @@ education:
     date_start: 2014-07-15
     date_end: 2021-02-15
     summary: |
-      Thesis on the diversity of glia in our nervous system. Supervised by [Marion Buckwalter](https://med.stanford.edu/profiles/marion-buckwalter). 
+      Thesis on the diversity of glia in our nervous system.
+      Supervised by [Marion Buckwalter](https://med.stanford.edu/profiles/marion-buckwalter). 
     button:
       text: 'Read Thesis'
       url: uploads/FinalDissertation.pdf

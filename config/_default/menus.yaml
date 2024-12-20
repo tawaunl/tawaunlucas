@@ -10,8 +10,8 @@ main:
   - name: Papers
     url: publication/
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Media
+    url: media/
     weight: 12
   - name: News
     url: /#news
