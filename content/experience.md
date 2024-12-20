@@ -12,6 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Work Experience
       username: admin
     design:
       # Hugo date format
@@ -20,7 +21,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: true
