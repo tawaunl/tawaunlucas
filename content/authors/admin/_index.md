@@ -103,11 +103,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-    - name: R/Unix/Linux
+    - name: 'R/Unix/Linux'
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Python & Machine Learning
+      - name: 'Python & Machine Learning'
         description: ''
         percent: 80
         icon: code-bracket
