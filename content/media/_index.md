@@ -2,8 +2,11 @@
 title: Media Coverage
 type: landing
 
----
-<h1 style="text-align: center;"><strong>Media Coverage</strong></h1>
+section:
+  - block: markdown
+    content:
+    text: |
+     <h1 style="text-align: center;"><strong>Media Coverage</strong></h1>
 <table style="height: 342px; width: 743px;">
 <tbody>
 <tr>
@@ -19,3 +22,4 @@ type: landing
 </tr>
 </tbody>
 </table>
+---
